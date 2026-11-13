@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero/banner.svg" alt="Vedant Baviskar" width="100%"/>
+<img src="banner.svg" alt="Vedant Baviskar" width="100%"/>
 
 <a href="https://vesastudios.site"><img src="https://img.shields.io/badge/Vesa_Studios-vesastudios.site-C79A63?style=for-the-badge&labelColor=0D1117"/></a>
 <a href="https://linkedin.com/in/vedant-baviskar"><img src="https://img.shields.io/badge/LinkedIn-vedant--baviskar-C79A63?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="assets/hero/terminal.svg" alt="terminal" width="88%"/>
+<img src="terminal.svg" alt="terminal" width="88%"/>
 
 </div>
 
@@ -41,7 +41,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedant-B22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C79A63&icon_color=C79A63&text_color=9AA4B2&ring_color=C79A63&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-B22&layout=compact&hide_border=true&bg_color=0D1117&title_color=C79A63&text_color=9AA4B2" />
 
 <br/>
